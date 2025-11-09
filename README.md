@@ -32,19 +32,18 @@ Your files are yours — they remain only on your device.
 
 ## ⚙️ App Permissions
 
-**ScanXpert requests only necessary permissions for core functions.**  
-| Permission              | Purpose                                                     | Required   |
-|-------------------------|-------------------------------------------------------------|------------|
-| 📂 Storage & Media      | To open, read, create, and save PDF files                   | ✅ Yes     |
-| ✍️ Signature/Input      | Digitally sign or annotate PDFs within the app              | ✅ Yes     |
-| 📑 Manage Files         | Merge, split, reorder, or edit files in app's storage area  | ✅ Yes     |
-| 📸 Camera               | Scan documents and convert to PDF *(coming soon)*           | 🔄 Optional|
-| 🌐 Internet Access      | For updates & Help *(no personal data, no analytics)*       | Optional   |
+**ScanXpert requests only necessary permissions for core functions.**
+
+| Permission             | Purpose                                                      | Required   |
+|------------------------|--------------------------------------------------------------|------------|
+| 📂 Storage & Media     | To open, read, create, and save PDF files                    | ✅ Yes     |
+| ✍️ Signature/Input     | Digitally sign or annotate PDFs within the app               | ✅ Yes     |
+| 📑 Manage Files        | Merge, split, reorder, or edit files in app's storage area   | ✅ Yes     |
+| 📸 Camera              | Scan documents and convert to PDF *(coming soon)*            | 🔄 Optional|
+| 🌐 Internet Access     | For updates & Help *(no personal data, no analytics)*        | Optional   |
 
 > **No permissions are used for tracking or sharing your files/data.**  
 > Only the features you use request permission at the time of use.
-
----
 
 ## 💰 Advertising
 
