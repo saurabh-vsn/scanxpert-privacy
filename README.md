@@ -82,7 +82,7 @@ All changes will be posted here, along with a "Last Updated" date.
 For questions or concerns about privacy, please reach out:
 
 - **Email:** jagprajapati80@gmail.com  
-- **GitHub:** [[github.com/YourUsername/ScanXpert](https://saurabh-vsn.github.io/scanxpert-privacy/)](#)
+- **GitHub:** [https://saurabh-vsn.github.io/scanxpert-privacy ](#)
 
 ---
 
