@@ -40,18 +40,20 @@ Your files are yours — they remain only on your device.
 
 ## ⚙️ App Permissions
 
-**ScanXpert requests only necessary permissions for core functions.**
+**ScanXpert requests only the permissions needed for its core features, and asks for them on-demand.**
 
-| Permission             | Purpose                                                      | Required   |
-|------------------------|--------------------------------------------------------------|------------|
-| 📂 Storage & Media     | To open, read, create, and save PDF files                    | ✅ Yes     |
-| ✍️ Signature/Input     | Digitally sign or annotate PDFs within the app               | ✅ Yes     |
-| 📑 Manage Files        | Merge, split, reorder, or edit files in app's storage area   | ✅ Yes     |
-| 📸 Camera              | Scan documents and convert to PDF *(coming soon)*            | 🔄 Optional|
-| 🌐 Internet Access     | For updates & Help *(no personal data, no analytics)*        | Optional   |
+| Permission                           | Purpose                                                                | When Required             |
+|---------------------------------------|------------------------------------------------------------------------|---------------------------|
+| 📂 Storage & Media                    | Open, read, create, and save PDF files                                 | Yes                       |
+| 📑 **All Files Access (Android 11+)** | Full access to all files **only for advanced PDF management functions** | When managing PDFs outside app folders (on user action) |
+| ✍️ Signature & Input                  | Digitally sign or annotate PDFs                                        | Yes                       |
+| 📑 Manage Files                       | Merge, split, reorder, or edit files in app-specific storage           | Yes                       |
+| 📸 Camera                             | Scan documents, convert images to PDF (available soon)                  | On user action            |
+| 🌐 Internet Access                    | Updates, online help or support (never for documents/data)              | Rare/Optional             |
 
-> **No permissions are used for tracking or sharing your files/data.**  
-> Only the features you use request permission at the time of use.
+> **ScanXpert never uses any permission for tracking or sharing your files or personal data.**
+> All Files Access is requested only to enable advanced PDF management features, so you can select, process, and organize PDFs wherever they are stored on your device.
+> Permissions are requested only at the moment you use a feature that needs them.
 
 ## 💰 Advertising
 
