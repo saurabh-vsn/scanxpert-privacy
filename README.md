@@ -1,9 +1,6 @@
 
-## 🖼️ Screenshots
-
 <p float="left">
-  <img src="Screenshot 2025-11-09 105415.png" width="260"/>
-  <img src="tools_page.jpg" width="260"/>
+  <img src="Screenshot 2025-11-09 105415.png" width="1080"/>
 </p>
 
 
