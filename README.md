@@ -1,3 +1,14 @@
+
+## 🖼️ Screenshots
+
+<p float="left">
+  <img src="home_page.jpg" width="260"/>
+  <img src="tools_page.jpg" width="260"/>
+</p>
+
+
+
+
 # 🔒 ScanXpert Privacy Policy
 
 _Last updated: November 2025_
