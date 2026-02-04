@@ -1,6 +1,6 @@
 
 <p float="left">
-  <img src="Screenshot 2025-11-09 105415.png" width="1080"/>
+  <img src="Screenshot 2026-02-04 181217.png" width="1080"/>
 </p>
 
 
@@ -8,95 +8,114 @@
 
 # 🔒 ScanXpert Privacy Policy
 
-_Last updated: November 2025_
+_Last updated: February 2026_
 
-Thank you for choosing **ScanXpert** — your offline, all-in-one PDF toolkit.  
-This Privacy Policy clearly explains how your data is handled within the app.
+Thank you for choosing **ScanXpert** — a privacy-first, offline PDF utility app.  
+Your privacy and data security are our highest priority.
 
 ---
 
 ## 🧩 Overview
 
-**ScanXpert** is designed for secure and private PDF management.  
-You can view, edit, merge, split, sign, watermark, annotate, and protect your PDF files — all directly on your device, **without internet or cloud required**.
+**ScanXpert** works primarily **offline** and processes your files **locally on your device**.
+
+All PDF operations such as:
+- Viewing
+- Merging
+- Splitting
+- Reordering
+- Signing
+- Watermarking
+- Annotating
+- Converting images to PDF
+
+are performed **on-device**, without uploading your files to any server.
 
 ---
 
 ## 📱 Data Collection & Storage
 
-**ScanXpert does NOT collect, store, or share any of your data.**  
-- All processing (viewing, merging, splitting, signing, annotating, protecting, watermarking, and converting images to PDF) happens **locally on your phone**.
-- No documents, images, or user information are ever sent to any external server.
+**ScanXpert does NOT collect, store, or share any personal or document data.**
 
-We never collect:
-- Your name, email, phone number, or contact details  
-- Content or metadata within your PDFs  
-- Usage analytics tied to your identity  
-- Any document, image, or user-generated information
+- Your PDFs and images never leave your device.
+- No files are uploaded to cloud servers.
+- No personal information is collected.
 
-Your files are yours — they remain only on your device.
+We do **NOT** collect:
+- Name, email, phone number, or contacts
+- PDF or image content
+- Metadata from documents
+- Usage analytics linked to identity
+- Location data
+
+👉 **Your data remains fully under your control.**
 
 ---
 
 ## ⚙️ App Permissions
 
-**ScanXpert requests only the permissions needed for its core features, and asks for them on-demand.**
+ScanXpert requests **only the minimum permissions required** for its features.
 
-| Permission                           | Purpose                                                                | When Required             |
-|---------------------------------------|------------------------------------------------------------------------|---------------------------|
-| 📂 Storage & Media                    | Open, read, create, and save PDF files                                 | Yes                       |
-| 📑 **All Files Access (Android 11+)** | Full access to all files **only for advanced PDF management functions** | When managing PDFs outside app folders (on user action) |
-| ✍️ Signature & Input                  | Digitally sign or annotate PDFs                                        | Yes                       |
-| 📑 Manage Files                       | Merge, split, reorder, or edit files in app-specific storage           | Yes                       |
-| 📸 Camera                             | Scan documents, convert images to PDF (available soon)                  | On user action            |
-| 🌐 Internet Access                    | Updates, online help or support (never for documents/data)              | Rare/Optional             |
+| Permission | Purpose | When Required |
+|----------|--------|--------------|
+| 📂 Read Media Documents | Read PDF files (Android 13+) | On user action |
+| 🖼️ Read Media Images | Convert images to PDF | On user action |
+| 📂 Read External Storage | Access PDFs on Android 12 and below | On user action |
+| ✍️ File Write (Android ≤10) | Save or modify PDFs | Automatically handled by system |
+| 🌐 Internet | OCR processing, updates, or support | Optional / Feature-based |
+| 🌐 Network State | Check internet availability | Optional |
 
-> **ScanXpert never uses any permission for tracking or sharing your files or personal data.**
-> All Files Access is requested only to enable advanced PDF management features, so you can select, process, and organize PDFs wherever they are stored on your device.
-> Permissions are requested only at the moment you use a feature that needs them.
+> 🔐 **ScanXpert does NOT request “All Files Access” permission.**  
+> The app accesses only user-selected files using standard Android storage access mechanisms.
+
+---
 
 ## 💰 Advertising
 
-- **Currently, there are no ads in ScanXpert.**
-- If ads are added in future updates, the Privacy Policy will be updated.  
-- Your documents and personal data will **never** be shared with ad networks.
+- **ScanXpert currently contains no ads.**
+- If ads are added in future versions, this policy will be updated.
+- User documents and personal data will **never** be shared with advertisers.
 
 ---
 
 ## 🧠 Data Security
 
-- Your PDFs and created documents stay stored locally in your app and device.
-- No cloud upload, backup, or external sharing by the app.
-- When you delete a file in ScanXpert, it is permanently erased from your device's storage.
-- Standard Android security and device features apply.
+- All documents remain stored locally on your device.
+- No cloud sync or remote backup is performed.
+- Deleted files are permanently removed from local storage.
+- Android’s built-in security protections apply.
 
 ---
 
-## 👦 Children's Privacy
+## 👦 Children’s Privacy
 
-ScanXpert is suitable for users of all ages.  
-We do **not** knowingly collect information from children under 13.
+ScanXpert does not knowingly collect any personal data from children under 13.  
+Since no personal data is collected, the app is safe for all age groups.
 
 ---
 
-## 🔁 Updates to This Policy
+## 🔁 Policy Updates
 
-The privacy policy may be revised as ScanXpert adds new features or complies with legal updates.  
-All changes will be posted here, along with a "Last Updated" date.
+This Privacy Policy may be updated to reflect:
+- New features
+- Permission changes
+- Legal or compliance updates
+
+Any changes will be posted here with an updated date.
 
 ---
 
 ## 💬 Contact Us
 
-For questions or concerns about privacy, please reach out:
+If you have any questions or concerns regarding privacy:
 
 - **Email:** jagprajapati80@gmail.com  
-- **GitHub:** [https://saurabh-vsn.github.io/scanxpert-privacy ](#)
+- **Privacy Page:** https://saurabh-vsn.github.io/scanxpert-privacy
 
 ---
 
-> _“Your files, your privacy — ScanXpert keeps everything private and fully on your device.”_
+> _“Your files stay on your device. Your privacy stays with you.”_
 
 ---
 
-**No data collection. No tracking. All PDF actions are local and secure. You control your documents — always.**
+**ScanXpert — no tracking, no data collection, no cloud dependency.**
